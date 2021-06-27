@@ -1,6 +1,6 @@
 # Fruta & Fruto
 
-### Projeto desenvolvido para o curso de *Arquitetura CSS: Descomplicando os problemas* do instrutor Matheus Castiglioni.
+### Projeto desenvolvido para o curso de *Arquitetura CSS: Descomplicando os problemas* do instrutor Matheus Castiglioni (Alura).
 
 
 &nbsp;
