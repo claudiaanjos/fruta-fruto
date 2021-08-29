@@ -7,14 +7,10 @@
 Nesse projeto desenvolvemos o site responsivo de receitas Fruta & Fruto. 
 Para o desenvolvimento do site utilizamos algumas boas práticas de CSS, como a metodologia *Atomic Design*, com a qual organizamos e arquitetamos nosso projeto de maneira mais eficiente e de fácil manutenção.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-### ⚒️  Tecnologias
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 &nbsp;
 
